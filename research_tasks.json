@@ -1,134 +1,132 @@
-{
-    "research_tasks": [
-        {
-            "id": 1,
-            "string1": "Number caught",
-            "string2": ""
-        },
-        {
-            "id": 2,
-            "string1": "Times you have seen it use",
-            "string2": ""
-        },
-        {
-            "id": 3,
-            "string1": "Number you've defeated with",
-            "string2": "-type moves"
-        },
-        {
-            "id": 4,
-            "string1": "Number defeated",
-            "string2": ""
-        },
-        {
-            "id": 5,
-            "string1": "Number you've evolved",
-            "string2": ""
-        },
-        {
-            "id": 6,
-            "string1": "Number of alpha specimens caught",
-            "string2": ""
-        },
-        {
-            "id": 7,
-            "string1": "Number of large specimens caught",
-            "string2": ""
-        },
-        {
-            "id": 8,
-            "string1": "Number of small specimens caught",
-            "string2": ""
-        },
-        {
-            "id": 9,
-            "string1": "Number of heavy specimens caught",
-            "string2": ""
-        },
-        {
-            "id": 10,
-            "string1": "Number of light specimens caught",
-            "string2": ""
-        },
-        {
-            "id": 11,
-            "string1": "Number caught in the evening",
-            "string2": ""
-        },
-        {
-            "id": 12,
-            "string1": "Number caught at night",
-            "string2": ""
-        },
-        {
-            "id": 13,
-            "string1": "Number caught during daylight hours",
-            "string2": ""
-        },
-        {
-            "id": 14,
-            "string1": "Number you've caught while they were sleeping",
-            "string2": ""
-        },
-        {
-            "id": 15,
-            "string1": "Number you've caught while they were in the air",
-            "string2": ""
-        },
-        {
-            "id": 16,
-            "string1": "Number you've caught without being spotted",
-            "string2": ""
-        },
-        {
-            "id": 17,
-            "string1": "Times you've given it food",
-            "string2": ""
-        },
-        {
-            "id": 18,
-            "string1": "Times you've stunned it using items",
-            "string2": ""
-        },
-        {
-            "id": 19,
-            "string1": "Times you've scared it off with a Scatter Bang",
-            "string2": ""
-        },
-        {
-            "id": 20,
-            "string1": "times you've seen it use a strong style move",
-            "string2": ""
-        },
-        {
-            "id": 21,
-            "string1": "Times you've seen it use an agile style move",
-            "string2": ""
-        },
-        {
-            "id": 22,
-            "string1": "Number you've seen leap out of trees",
-            "string2": ""
-        },
-        {
-            "id": 23,
-            "string1": "Number you've seen leap out of ore deposits",
-            "string2": ""
-        },
-        {
-            "id": 24,
-            "string1": "Number of different forms you've obtained",
-            "string2": ""
-        },
-        {
-            "id": 25,
-            "string1": "Received a part of Arceus",
-            "string2": ""
-        },
-        {
-            "id": 26,
-            "string1": "",
-            "string2": ""
-        }
-    ]
-}
+[
+    {
+        "id": 1,
+        "string1": "Number caught",
+        "string2": ""
+    },
+    {
+        "id": 2,
+        "string1": "Times you have seen it use",
+        "string2": ""
+    },
+    {
+        "id": 3,
+        "string1": "Number you've defeated with",
+        "string2": "-type moves"
+    },
+    {
+        "id": 4,
+        "string1": "Number defeated",
+        "string2": ""
+    },
+    {
+        "id": 5,
+        "string1": "Number you've evolved",
+        "string2": ""
+    },
+    {
+        "id": 6,
+        "string1": "Number of alpha specimens caught",
+        "string2": ""
+    },
+    {
+        "id": 7,
+        "string1": "Number of large specimens caught",
+        "string2": ""
+    },
+    {
+        "id": 8,
+        "string1": "Number of small specimens caught",
+        "string2": ""
+    },
+    {
+        "id": 9,
+        "string1": "Number of heavy specimens caught",
+        "string2": ""
+    },
+    {
+        "id": 10,
+        "string1": "Number of light specimens caught",
+        "string2": ""
+    },
+    {
+        "id": 11,
+        "string1": "Number caught in the evening",
+        "string2": ""
+    },
+    {
+        "id": 12,
+        "string1": "Number caught at night",
+        "string2": ""
+    },
+    {
+        "id": 13,
+        "string1": "Number caught during daylight hours",
+        "string2": ""
+    },
+    {
+        "id": 14,
+        "string1": "Number you've caught while they were sleeping",
+        "string2": ""
+    },
+    {
+        "id": 15,
+        "string1": "Number you've caught while they were in the air",
+        "string2": ""
+    },
+    {
+        "id": 16,
+        "string1": "Number you've caught without being spotted",
+        "string2": ""
+    },
+    {
+        "id": 17,
+        "string1": "Times you've given it food",
+        "string2": ""
+    },
+    {
+        "id": 18,
+        "string1": "Times you've stunned it using items",
+        "string2": ""
+    },
+    {
+        "id": 19,
+        "string1": "Times you've scared it off with a Scatter Bang",
+        "string2": ""
+    },
+    {
+        "id": 20,
+        "string1": "times you've seen it use a strong style move",
+        "string2": ""
+    },
+    {
+        "id": 21,
+        "string1": "Times you've seen it use an agile style move",
+        "string2": ""
+    },
+    {
+        "id": 22,
+        "string1": "Number you've seen leap out of trees",
+        "string2": ""
+    },
+    {
+        "id": 23,
+        "string1": "Number you've seen leap out of ore deposits",
+        "string2": ""
+    },
+    {
+        "id": 24,
+        "string1": "Number of different forms you've obtained",
+        "string2": ""
+    },
+    {
+        "id": 25,
+        "string1": "Received a part of Arceus",
+        "string2": ""
+    },
+    {
+        "id": 26,
+        "string1": "",
+        "string2": ""
+    }
+]
