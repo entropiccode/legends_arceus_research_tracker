@@ -1,0 +1,725 @@
+[
+    {
+        "name": "rowlet",
+        "dexid": "001",
+        "natdexid": "722",
+        "research_tasks": [
+            {
+                "task_id": 1,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 3,
+                "requirement4": 4,
+                "requirement5": 5,
+                "bonus_points": true,
+                "special_string": null
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Leafage",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": true,
+                "special_string": null
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Roost",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": null
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Aerial Ace",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": null
+            },
+            {
+                "task_id": 20,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": null
+            },
+            {
+                "task_id": 21,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": null
+            },
+            {
+                "task_id": 5,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": null,
+                "requirement3": null,
+                "requirement4": null,
+                "requirement5": null,
+                "bonus_points": true,
+                "special_string": null
+            }
+        ]
+    },
+    {
+        "name": "dartrix",
+        "dexid": "001",
+        "natdexid": "723",
+        "research_tasks": [
+            {
+                "task_id": 1,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 3,
+                "requirement4": 4,
+                "requirement5": 5,
+                "bonus_points": true,
+                "special_string": null
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Leafage",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": true,
+                "special_string": null
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Roost",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": null
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Aerial Ace",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": null
+            },
+            {
+                "task_id": 20,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": null
+            },
+            {
+                "task_id": 21,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": null
+            },
+            {
+                "task_id": 5,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 3,
+                "requirement4": null,
+                "requirement5": null,
+                "bonus_points": true,
+                "special_string": null
+            }
+        ]
+    },
+    {
+        "name": "decidueye",
+        "dexid": "003",
+        "natdexid": "724",
+        "research_tasks": [
+            {
+                "task_id": 1,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 3,
+                "requirement4": 4,
+                "requirement5": 5,
+                "bonus_points": true,
+                "special_string": null
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Triple Arrows",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 8,
+                "requirement4": 20,
+                "requirement5": 40,
+                "bonus_points": true,
+                "special_string": null
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Leaf Blade",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": false,
+                "special_string": null
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Leaf Storm",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": false,
+                "special_string": null
+            },
+            {
+                "task_id": 20,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 8,
+                "requirement4": 20,
+                "requirement5": 40,
+                "bonus_points": true,
+                "special_string": null
+            },
+            {
+                "task_id": 21,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 8,
+                "requirement4": 20,
+                "requirement5": 40,
+                "bonus_points": false,
+                "special_string": null
+            }
+        ]
+    },
+    {
+        "name": "cyndaquil",
+        "dexid": "004",
+        "natdexid": "155",
+        "research_tasks": [
+            {
+                "task_id": 1,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 3,
+                "requirement4": 4,
+                "requirement5": 5,
+                "bonus_points": true,
+                "special_string": null
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Ember",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": true,
+                "special_string": null
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Quick Attack",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": null
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Flame Wheel",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": null
+            },
+            {
+                "task_id": 20,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": null
+            },
+            {
+                "task_id": 21,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": null
+            },
+            {
+                "task_id": 5,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": null,
+                "requirement3": null,
+                "requirement4": null,
+                "requirement5": null,
+                "bonus_points": true,
+                "special_string": null
+            }
+        ]
+    },
+    {
+        "name": "quilava",
+        "dexid": "005",
+        "natdexid": "156",
+        "research_tasks": [
+            {
+                "task_id": 1,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 3,
+                "requirement4": 4,
+                "requirement5": 5,
+                "bonus_points": true,
+                "special_string": null
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Ember",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": true,
+                "special_string": null
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Quick Attack",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": null
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Flame Wheel",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": null
+            },
+            {
+                "task_id": 20,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": null
+            },
+            {
+                "task_id": 21,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": null
+            },
+            {
+                "task_id": 5,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 3,
+                "requirement4": null,
+                "requirement5": null,
+                "bonus_points": true,
+                "special_string": null
+            }
+        ]
+    },
+    {
+        "name": "typhlosion",
+        "dexid": "006",
+        "natdexid": "157",
+        "research_tasks": [
+            {
+                "task_id": 1,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 3,
+                "requirement4": 4,
+                "requirement5": 5,
+                "bonus_points": true,
+                "special_string": null
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Infernal Parade",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 8,
+                "requirement4": 20,
+                "requirement5": 40,
+                "bonus_points": true,
+                "special_string": null
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Flamethrower",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": false,
+                "special_string": null
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Overheat",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": false,
+                "special_string": null
+            },
+            {
+                "task_id": 20,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 8,
+                "requirement4": 20,
+                "requirement5": 40,
+                "bonus_points": true,
+                "special_string": null
+            },
+            {
+                "task_id": 21,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 8,
+                "requirement4": 20,
+                "requirement5": 40,
+                "bonus_points": false,
+                "special_string": null
+            }
+        ]
+    },
+    {
+        "name": "oshawott",
+        "dexid": "007",
+        "natdexid": "501",
+        "research_tasks": [
+            {
+                "task_id": 1,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 3,
+                "requirement4": 4,
+                "requirement5": 5,
+                "bonus_points": true,
+                "special_string": null
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Aqua Jet",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": true,
+                "special_string": null
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Water Pulse",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": null
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Slash",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": null
+            },
+            {
+                "task_id": 20,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": null
+            },
+            {
+                "task_id": 21,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": null
+            },
+            {
+                "task_id": 5,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": null,
+                "requirement3": null,
+                "requirement4": null,
+                "requirement5": null,
+                "bonus_points": true,
+                "special_string": null
+            }
+        ]
+    },
+    {
+        "name": "dewott",
+        "dexid": "008",
+        "natdexid": "502",
+        "research_tasks": [
+            {
+                "task_id": 1,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 3,
+                "requirement4": 4,
+                "requirement5": 5,
+                "bonus_points": true,
+                "special_string": null
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Aqua Jet",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": true,
+                "special_string": null
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Water Pulse",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": null
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Slash",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": null
+            },
+            {
+                "task_id": 20,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": null
+            },
+            {
+                "task_id": 21,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": null
+            },
+            {
+                "task_id": 5,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 3,
+                "requirement4": null,
+                "requirement5": null,
+                "bonus_points": true,
+                "special_string": null
+            }
+        ]
+    },
+    {
+        "name": "samurott",
+        "dexid": "009",
+        "natdexid": "503",
+        "research_tasks": [
+            {
+                "task_id": 1,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 3,
+                "requirement4": 4,
+                "requirement5": 5,
+                "bonus_points": true,
+                "special_string": null
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Ceaseless Edge",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 8,
+                "requirement4": 20,
+                "requirement5": 40,
+                "bonus_points": true,
+                "special_string": null
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Aqua Tail",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": false,
+                "special_string": null
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Hydro Pump",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": false,
+                "special_string": null
+            },
+            {
+                "task_id": 20,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 8,
+                "requirement4": 20,
+                "requirement5": 40,
+                "bonus_points": true,
+                "special_string": null
+            },
+            {
+                "task_id": 21,
+                "extra_data": null,
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 8,
+                "requirement4": 20,
+                "requirement5": 40,
+                "bonus_points": false,
+                "special_string": null
+            }
+        ]
+    }
+]
