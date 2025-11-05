@@ -1,11 +1,11 @@
 [
     {
-        "name": "rowlet",
+        "name": "Rowlet",
         "dexid": "001",
         "natdexid": "722",
         "research_tasks": [
             {
-                "task_id": 1,
+                "task_id": 0,
                 "extra_data": "",
                 "requirement1": 1,
                 "requirement2": 2,
@@ -16,7 +16,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 2,
+                "task_id": 1,
                 "extra_data": "Leafage",
                 "requirement1": 1,
                 "requirement2": 2,
@@ -27,7 +27,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 2,
+                "task_id": 1,
                 "extra_data": "Roost",
                 "requirement1": 1,
                 "requirement2": 2,
@@ -38,8 +38,19 @@
                 "special_string": ""
             },
             {
-                "task_id": 2,
+                "task_id": 1,
                 "extra_data": "Aerial Ace",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 19,
+                "extra_data": "",
                 "requirement1": 1,
                 "requirement2": 2,
                 "requirement3": 4,
@@ -60,18 +71,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 21,
-                "extra_data": "",
-                "requirement1": 1,
-                "requirement2": 2,
-                "requirement3": 4,
-                "requirement4": 10,
-                "requirement5": 15,
-                "bonus_points": false,
-                "special_string": ""
-            },
-            {
-                "task_id": 5,
+                "task_id": 4,
                 "extra_data": "",
                 "requirement1": 1,
                 "requirement2": "",
@@ -84,12 +84,12 @@
         ]
     },
     {
-        "name": "dartrix",
+        "name": "Dartrix",
         "dexid": "001",
         "natdexid": "723",
         "research_tasks": [
             {
-                "task_id": 1,
+                "task_id": 0,
                 "extra_data": "",
                 "requirement1": 1,
                 "requirement2": 2,
@@ -100,7 +100,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 2,
+                "task_id": 1,
                 "extra_data": "Leafage",
                 "requirement1": 1,
                 "requirement2": 2,
@@ -111,7 +111,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 2,
+                "task_id": 1,
                 "extra_data": "Roost",
                 "requirement1": 1,
                 "requirement2": 2,
@@ -122,8 +122,19 @@
                 "special_string": ""
             },
             {
-                "task_id": 2,
+                "task_id": 1,
                 "extra_data": "Aerial Ace",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 19,
+                "extra_data": "",
                 "requirement1": 1,
                 "requirement2": 2,
                 "requirement3": 4,
@@ -144,18 +155,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 21,
-                "extra_data": "",
-                "requirement1": 1,
-                "requirement2": 2,
-                "requirement3": 4,
-                "requirement4": 10,
-                "requirement5": 15,
-                "bonus_points": false,
-                "special_string": ""
-            },
-            {
-                "task_id": 5,
+                "task_id": 4,
                 "extra_data": "",
                 "requirement1": 1,
                 "requirement2": 2,
@@ -168,12 +168,12 @@
         ]
     },
     {
-        "name": "decidueye",
+        "name": "Decidueye",
         "dexid": "003",
         "natdexid": "724",
         "research_tasks": [
             {
-                "task_id": 1,
+                "task_id": 0,
                 "extra_data": "",
                 "requirement1": 1,
                 "requirement2": 2,
@@ -184,7 +184,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 2,
+                "task_id": 1,
                 "extra_data": "Triple Arrows",
                 "requirement1": 1,
                 "requirement2": 3,
@@ -195,7 +195,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 2,
+                "task_id": 1,
                 "extra_data": "Leaf Blade",
                 "requirement1": 1,
                 "requirement2": 3,
@@ -206,7 +206,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 2,
+                "task_id": 1,
                 "extra_data": "Leaf Storm",
                 "requirement1": 1,
                 "requirement2": 3,
@@ -217,7 +217,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 20,
+                "task_id": 19,
                 "extra_data": "",
                 "requirement1": 1,
                 "requirement2": 3,
@@ -228,7 +228,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 21,
+                "task_id": 20,
                 "extra_data": "",
                 "requirement1": 1,
                 "requirement2": 3,
@@ -241,12 +241,12 @@
         ]
     },
     {
-        "name": "cyndaquil",
+        "name": "Cyndaquil",
         "dexid": "004",
         "natdexid": "155",
         "research_tasks": [
             {
-                "task_id": 1,
+                "task_id": 0,
                 "extra_data": "",
                 "requirement1": 1,
                 "requirement2": 2,
@@ -257,7 +257,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 2,
+                "task_id": 1,
                 "extra_data": "Ember",
                 "requirement1": 1,
                 "requirement2": 2,
@@ -268,7 +268,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 2,
+                "task_id": 1,
                 "extra_data": "Quick Attack",
                 "requirement1": 1,
                 "requirement2": 2,
@@ -279,8 +279,19 @@
                 "special_string": ""
             },
             {
-                "task_id": 2,
+                "task_id": 1,
                 "extra_data": "Flame Wheel",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 19,
+                "extra_data": "",
                 "requirement1": 1,
                 "requirement2": 2,
                 "requirement3": 4,
@@ -301,18 +312,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 21,
-                "extra_data": "",
-                "requirement1": 1,
-                "requirement2": 2,
-                "requirement3": 4,
-                "requirement4": 10,
-                "requirement5": 15,
-                "bonus_points": false,
-                "special_string": ""
-            },
-            {
-                "task_id": 5,
+                "task_id": 4,
                 "extra_data": "",
                 "requirement1": 1,
                 "requirement2": "",
@@ -325,12 +325,12 @@
         ]
     },
     {
-        "name": "quilava",
+        "name": "Quilava",
         "dexid": "005",
         "natdexid": "156",
         "research_tasks": [
             {
-                "task_id": 1,
+                "task_id": 0,
                 "extra_data": "",
                 "requirement1": 1,
                 "requirement2": 2,
@@ -341,7 +341,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 2,
+                "task_id": 1,
                 "extra_data": "Ember",
                 "requirement1": 1,
                 "requirement2": 2,
@@ -352,7 +352,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 2,
+                "task_id": 1,
                 "extra_data": "Quick Attack",
                 "requirement1": 1,
                 "requirement2": 2,
@@ -363,8 +363,19 @@
                 "special_string": ""
             },
             {
-                "task_id": 2,
+                "task_id": 1,
                 "extra_data": "Flame Wheel",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 19,
+                "extra_data": "",
                 "requirement1": 1,
                 "requirement2": 2,
                 "requirement3": 4,
@@ -385,18 +396,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 21,
-                "extra_data": "",
-                "requirement1": 1,
-                "requirement2": 2,
-                "requirement3": 4,
-                "requirement4": 10,
-                "requirement5": 15,
-                "bonus_points": false,
-                "special_string": ""
-            },
-            {
-                "task_id": 5,
+                "task_id": 4,
                 "extra_data": "",
                 "requirement1": 1,
                 "requirement2": 2,
@@ -409,12 +409,12 @@
         ]
     },
     {
-        "name": "typhlosion",
+        "name": "Typhlosion",
         "dexid": "006",
         "natdexid": "157",
         "research_tasks": [
             {
-                "task_id": 1,
+                "task_id": 0,
                 "extra_data": "",
                 "requirement1": 1,
                 "requirement2": 2,
@@ -425,7 +425,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 2,
+                "task_id": 1,
                 "extra_data": "Infernal Parade",
                 "requirement1": 1,
                 "requirement2": 3,
@@ -436,7 +436,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 2,
+                "task_id": 1,
                 "extra_data": "Flamethrower",
                 "requirement1": 1,
                 "requirement2": 3,
@@ -447,7 +447,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 2,
+                "task_id": 1,
                 "extra_data": "Overheat",
                 "requirement1": 1,
                 "requirement2": 3,
@@ -458,7 +458,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 20,
+                "task_id": 19,
                 "extra_data": "",
                 "requirement1": 1,
                 "requirement2": 3,
@@ -469,7 +469,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 21,
+                "task_id": 20,
                 "extra_data": "",
                 "requirement1": 1,
                 "requirement2": 3,
@@ -482,12 +482,12 @@
         ]
     },
     {
-        "name": "oshawott",
+        "name": "Oshawott",
         "dexid": "007",
         "natdexid": "501",
         "research_tasks": [
             {
-                "task_id": 1,
+                "task_id": 0,
                 "extra_data": "",
                 "requirement1": 1,
                 "requirement2": 2,
@@ -498,7 +498,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 2,
+                "task_id": 1,
                 "extra_data": "Aqua Jet",
                 "requirement1": 1,
                 "requirement2": 2,
@@ -509,7 +509,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 2,
+                "task_id": 1,
                 "extra_data": "Water Pulse",
                 "requirement1": 1,
                 "requirement2": 2,
@@ -520,8 +520,19 @@
                 "special_string": ""
             },
             {
-                "task_id": 2,
+                "task_id": 1,
                 "extra_data": "Slash",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 19,
+                "extra_data": "",
                 "requirement1": 1,
                 "requirement2": 2,
                 "requirement3": 4,
@@ -542,18 +553,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 21,
-                "extra_data": "",
-                "requirement1": 1,
-                "requirement2": 2,
-                "requirement3": 4,
-                "requirement4": 10,
-                "requirement5": 15,
-                "bonus_points": false,
-                "special_string": ""
-            },
-            {
-                "task_id": 5,
+                "task_id": 4,
                 "extra_data": "",
                 "requirement1": 1,
                 "requirement2": "",
@@ -566,12 +566,12 @@
         ]
     },
     {
-        "name": "dewott",
+        "name": "Dewott",
         "dexid": "008",
         "natdexid": "502",
         "research_tasks": [
             {
-                "task_id": 1,
+                "task_id": 0,
                 "extra_data": "",
                 "requirement1": 1,
                 "requirement2": 2,
@@ -582,7 +582,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 2,
+                "task_id": 1,
                 "extra_data": "Aqua Jet",
                 "requirement1": 1,
                 "requirement2": 2,
@@ -593,7 +593,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 2,
+                "task_id": 1,
                 "extra_data": "Water Pulse",
                 "requirement1": 1,
                 "requirement2": 2,
@@ -604,8 +604,19 @@
                 "special_string": ""
             },
             {
-                "task_id": 2,
+                "task_id": 1,
                 "extra_data": "Slash",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 19,
+                "extra_data": "",
                 "requirement1": 1,
                 "requirement2": 2,
                 "requirement3": 4,
@@ -626,18 +637,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 21,
-                "extra_data": "",
-                "requirement1": 1,
-                "requirement2": 2,
-                "requirement3": 4,
-                "requirement4": 10,
-                "requirement5": 15,
-                "bonus_points": false,
-                "special_string": ""
-            },
-            {
-                "task_id": 5,
+                "task_id": 4,
                 "extra_data": "",
                 "requirement1": 1,
                 "requirement2": 2,
@@ -650,12 +650,12 @@
         ]
     },
     {
-        "name": "samurott",
+        "name": "Samurott",
         "dexid": "009",
         "natdexid": "503",
         "research_tasks": [
             {
-                "task_id": 1,
+                "task_id": 0,
                 "extra_data": "",
                 "requirement1": 1,
                 "requirement2": 2,
@@ -666,7 +666,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 2,
+                "task_id": 1,
                 "extra_data": "Ceaseless Edge",
                 "requirement1": 1,
                 "requirement2": 3,
@@ -677,7 +677,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 2,
+                "task_id": 1,
                 "extra_data": "Aqua Tail",
                 "requirement1": 1,
                 "requirement2": 3,
@@ -688,7 +688,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 2,
+                "task_id": 1,
                 "extra_data": "Hydro Pump",
                 "requirement1": 1,
                 "requirement2": 3,
@@ -699,7 +699,7 @@
                 "special_string": ""
             },
             {
-                "task_id": 20,
+                "task_id": 19,
                 "extra_data": "",
                 "requirement1": 1,
                 "requirement2": 3,
@@ -710,13 +710,1072 @@
                 "special_string": ""
             },
             {
-                "task_id": 21,
+                "task_id": 20,
                 "extra_data": "",
                 "requirement1": 1,
                 "requirement2": 3,
                 "requirement3": 8,
                 "requirement4": 20,
                 "requirement5": 40,
+                "bonus_points": false,
+                "special_string": ""
+            }
+        ]
+    },
+    {
+        "name": "Bidoof",
+        "dexid": "010",
+        "natdexid": "399",
+        "research_tasks": [
+            {
+                "task_id": 0,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": true,
+                "special_string": ""
+            },
+            {
+                "task_id": 8,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 3,
+                "requirement4": 5,
+                "requirement5": 7,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 3,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 23,
+                "extra_data": "",
+                "requirement1": 2,
+                "requirement2": "",
+                "requirement3": "",
+                "requirement4": "",
+                "requirement5": "",
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 4,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": "",
+                "requirement3": "",
+                "requirement4": "",
+                "requirement5": "",
+                "bonus_points": true,
+                "special_string": ""
+            },
+            {
+                "task_id": 25,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": "",
+                "requirement3": "",
+                "requirement4": "",
+                "requirement5": "",
+                "bonus_points": true,
+                "special_string": "Investigated the Bidoof that bother the village"
+            }
+        ]
+    },
+    {
+        "name": "Bibarel",
+        "dexid": "011",
+        "natdexid": "400",
+        "research_tasks": [
+            {
+                "task_id": 0,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": true,
+                "special_string": ""
+            },
+            {
+                "task_id": 5,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 3,
+                "requirement4": 4,
+                "requirement5": 5,
+                "bonus_points": true,
+                "special_string": ""
+            },
+            {
+                "task_id": 3,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 20,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 1,
+                "extra_data": "Bite",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 1,
+                "extra_data": "Aqua Tail",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": true,
+                "special_string": ""
+            },
+            {
+                "task_id": 19,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 23,
+                "extra_data": "",
+                "requirement1": 2,
+                "requirement2": "",
+                "requirement3": "",
+                "requirement4": "",
+                "requirement5": "",
+                "bonus_points": false,
+                "special_string": ""
+            }
+        ]
+    },
+    {
+        "name": "Starly",
+        "dexid": "012",
+        "natdexid": "396",
+        "research_tasks": [
+            {
+                "task_id": 0,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": true,
+                "special_string": ""
+            },
+            {
+                "task_id": 15,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 5,
+                "requirement4": 10,
+                "requirement5": 20,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 3,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 23,
+                "extra_data": "",
+                "requirement1": 2,
+                "requirement2": "",
+                "requirement3": "",
+                "requirement4": "",
+                "requirement5": "",
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 4,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 3,
+                "requirement4": "",
+                "requirement5": "",
+                "bonus_points": true,
+                "special_string": ""
+            }
+        ]
+    },
+    {
+        "name": "Staravia",
+        "dexid": "013",
+        "natdexid": "397",
+        "research_tasks": [
+            {
+                "task_id": 0,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": true,
+                "special_string": ""
+            },
+            {
+                "task_id": 3,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Electric",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 6,
+                "requirement5": 10,
+                "bonus_points": true,
+                "special_string": ""
+            },
+            {
+                "task_id": 1,
+                "extra_data": "Aerial Ace",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 16,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 5,
+                "requirement4": 7,
+                "requirement5": 10,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 23,
+                "extra_data": "",
+                "requirement1": 2,
+                "requirement2": "",
+                "requirement3": "",
+                "requirement4": "",
+                "requirement5": "",
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 4,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 3,
+                "requirement4": "",
+                "requirement5": "",
+                "bonus_points": true,
+                "special_string": ""
+            }
+        ]
+    },
+    {
+        "name": "Staraptor",
+        "dexid": "014",
+        "natdexid": "398",
+        "research_tasks": [
+            {
+                "task_id": 0,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": true,
+                "special_string": ""
+            },
+            {
+                "task_id": 14,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 3,
+                "requirement4": 4,
+                "requirement5": 5,
+                "bonus_points": true,
+                "special_string": ""
+            },
+            {
+                "task_id": 3,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Rock",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 5,
+                "requirement4": 10,
+                "requirement5": 20,
+                "bonus_points": true,
+                "special_string": ""
+            },
+            {
+                "task_id": 1,
+                "extra_data": "Air Slash",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 8,
+                "requirement4": 20,
+                "requirement5": 40,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 1,
+                "extra_data": "Brave Bird",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 8,
+                "requirement4": 20,
+                "requirement5": 40,
+                "bonus_points": true,
+                "special_string": ""
+            },
+            {
+                "task_id": 19,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 23,
+                "extra_data": "",
+                "requirement1": 2,
+                "requirement2": "",
+                "requirement3": "",
+                "requirement4": "",
+                "requirement5": "",
+                "bonus_points": false,
+                "special_string": ""
+            }
+        ]
+    },
+    {
+        "name": "Shinx",
+        "dexid": "015",
+        "natdexid": "403",
+        "research_tasks": [
+            {
+                "task_id": 0,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": true,
+                "special_string": ""
+            },
+            {
+                "task_id": 3,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Ground",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 6,
+                "requirement5": 10,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 1,
+                "extra_data": "Quick Attack",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": true,
+                "special_string": ""
+            },
+            {
+                "task_id": 1,
+                "extra_data": "Bite",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 23,
+                "extra_data": "",
+                "requirement1": 2,
+                "requirement2": "",
+                "requirement3": "",
+                "requirement4": "",
+                "requirement5": "",
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 4,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 3,
+                "requirement4": "",
+                "requirement5": "",
+                "bonus_points": true,
+                "special_string": ""
+            }
+        ]
+    },
+    {
+        "name": "Luxio",
+        "dexid": "016",
+        "natdexid": "404",
+        "research_tasks": [
+            {
+                "task_id": 0,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": true,
+                "special_string": ""
+            },
+            {
+                "task_id": 3,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Ground",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 5,
+                "requirement4": 10,
+                "requirement5": 20,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 1,
+                "extra_data": "Bite",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 1,
+                "extra_data": "Thunder Fang",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 8,
+                "requirement4": 20,
+                "requirement5": 40,
+                "bonus_points": true,
+                "special_string": ""
+            },
+            {
+                "task_id": 23,
+                "extra_data": "",
+                "requirement1": 2,
+                "requirement2": "",
+                "requirement3": "",
+                "requirement4": "",
+                "requirement5": "",
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 4,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 3,
+                "requirement4": "",
+                "requirement5": "",
+                "bonus_points": true,
+                "special_string": ""
+            }
+        ]
+    },
+    {
+        "name": "Luxray",
+        "dexid": "017",
+        "natdexid": "405",
+        "research_tasks": [
+            {
+                "task_id": 0,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": true,
+                "special_string": ""
+            },
+            {
+                "task_id": 3,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Ground",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 6,
+                "requirement5": 10,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 1,
+                "extra_data": "Thunder Fang",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 1,
+                "extra_data": "Crunch",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 1,
+                "extra_data": "Wild Charge",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 8,
+                "requirement4": 20,
+                "requirement5": 40,
+                "bonus_points": true,
+                "special_string": ""
+            },
+            {
+                "task_id": 19,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 8,
+                "requirement4": 20,
+                "requirement5": 40,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 23,
+                "extra_data": "",
+                "requirement1": 2,
+                "requirement2": "",
+                "requirement3": "",
+                "requirement4": "",
+                "requirement5": "",
+                "bonus_points": false,
+                "special_string": ""
+            }
+        ]
+    },
+    {
+        "name": "Wurmple",
+        "dexid": "018",
+        "natdexid": "265",
+        "research_tasks": [
+            {
+                "task_id": 0,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": true,
+                "special_string": ""
+            },
+            {
+                "task_id": 9,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 3,
+                "requirement4": 4,
+                "requirement5": 5,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 15,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 6,
+                "requirement5": 10,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 3,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 1,
+                "extra_data": "Poison Sting",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 4,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 3,
+                "requirement4": "",
+                "requirement5": "",
+                "bonus_points": true,
+                "special_string": ""
+            }
+        ]
+    },
+    {
+        "name": "Silcoon",
+        "dexid": "019",
+        "natdexid": "266",
+        "research_tasks": [
+            {
+                "task_id": 0,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": true,
+                "special_string": ""
+            },
+            {
+                "task_id": 12,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 5,
+                "requirement4": 10,
+                "requirement5": 20,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 3,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Flying",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 6,
+                "requirement5": 10,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 1,
+                "extra_data": "Poison Sting",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 4,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 3,
+                "requirement4": "",
+                "requirement5": "",
+                "bonus_points": true,
+                "special_string": ""
+            }
+        ]
+    },
+    {
+        "name": "Beautifly",
+        "dexid": "020",
+        "natdexid": "267",
+        "research_tasks": [
+            {
+                "task_id": 0,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": true,
+                "special_string": ""
+            },
+            {
+                "task_id": 12,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 5,
+                "requirement4": 10,
+                "requirement5": 20,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 3,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Rock",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 6,
+                "requirement5": 10,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 1,
+                "extra_data": "Stun Spore",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": true,
+                "special_string": ""
+            },
+            {
+                "task_id": 20,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": true,
+                "special_string": ""
+            },
+            {
+                "task_id": 23,
+                "extra_data": "",
+                "requirement1": 2,
+                "requirement2": "",
+                "requirement3": "",
+                "requirement4": "",
+                "requirement5": "",
+                "bonus_points": false,
+                "special_string": ""
+            }
+        ]
+    },
+    {
+        "name": "Cascoon",
+        "dexid": "021",
+        "natdexid": "268",
+        "research_tasks": [
+            {
+                "task_id": 0,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": true,
+                "special_string": ""
+            },
+            {
+                "task_id": 11,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 5,
+                "requirement4": 10,
+                "requirement5": 20,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 3,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 20,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Fire",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 1,
+                "extra_data": "Poison Sting",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 4,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 3,
+                "requirement4": "",
+                "requirement5": "",
+                "bonus_points": true,
+                "special_string": ""
+            },
+            {
+                "task_id": 25,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": "",
+                "requirement3": "",
+                "requirement4": "",
+                "requirement5": "",
+                "bonus_points": true,
+                "special_string": "Investigated how Silcoon and Cascoon differ"
+            }
+        ]
+    },
+    {
+        "name": "Dustox",
+        "dexid": "022",
+        "natdexid": "269",
+        "research_tasks": [
+            {
+                "task_id": 0,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 10,
+                "requirement5": 15,
+                "bonus_points": true,
+                "special_string": ""
+            },
+            {
+                "task_id": 11,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 5,
+                "requirement4": 10,
+                "requirement5": 20,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 3,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 2,
+                "extra_data": "Psychic",
+                "requirement1": 1,
+                "requirement2": 2,
+                "requirement3": 4,
+                "requirement4": 6,
+                "requirement5": 10,
+                "bonus_points": false,
+                "special_string": ""
+            },
+            {
+                "task_id": 1,
+                "extra_data": "Poison Powder",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": true,
+                "special_string": ""
+            },
+            {
+                "task_id": 19,
+                "extra_data": "",
+                "requirement1": 1,
+                "requirement2": 3,
+                "requirement3": 6,
+                "requirement4": 12,
+                "requirement5": 25,
+                "bonus_points": true,
+                "special_string": ""
+            },
+            {
+                "task_id": 23,
+                "extra_data": "",
+                "requirement1": 2,
+                "requirement2": "",
+                "requirement3": "",
+                "requirement4": "",
+                "requirement5": "",
                 "bonus_points": false,
                 "special_string": ""
             }
